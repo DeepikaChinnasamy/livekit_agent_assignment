@@ -33,7 +33,7 @@ python backendserverflask.py
 ```
 ### 4️⃣ Start LiveKit Agent  
 ```sh
-python minimal_assistant.py
+python minimal_assistant.py dev
 ```
 ### 5️⃣ Expose Flask API using Ngrok  
 ```sh
