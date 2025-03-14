@@ -45,4 +45,4 @@ Replace the **Flask server URL** in `minimal_assistant.py` with the generated **
 [Link to Presentation Video](#)  
  
 ## 📜 Documentation  
-For a detailed guide, check the [Documentation](https://github.com/DeepikaChinnasamy/livekit_home_assignment/blob/main/Developer%20Home%20Assignment.docx).  
+For a detailed guide, check the [Documentation](https://github.com/DeepikaChinnasamy/livekit_agent_assignment/blob/main/Developer%20Home%20Assignment.docx) 
