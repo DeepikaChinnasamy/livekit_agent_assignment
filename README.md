@@ -15,7 +15,13 @@ This project implements a **voice assistant** using **LiveKit's Voice Pipeline A
 2. Before text is sent to **TTS**, its estimated audio length is calculated.  
 3. The estimated length is sent to the **Flask API** for validation.  
 4. If the duration exceeds **60 seconds**, the **middle portion** of the text is trimmed and summarized.  
-5. The modified text is returned and processed by **TTS**.  
+5. The modified text is returned and processed by **TTS**.
+
+📢 Note
+This repository only includes task file modifications for integrating audio validation and summarization.
+For a full implementation of LiveKit's Voice Pipeline Agent, please refer to the official GitHub repository:
+
+🔗 LiveKit Agents GitHub: https://github.com/livekit/agents/tree/main/examples/voice-pipeline-agent
  
 ## 🏗️ Setup  
 ### 1️⃣ Clone Repository  
