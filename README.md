@@ -48,7 +48,8 @@ ngrok http 5000
 Replace the **Flask server URL** in `minimal_assistant.py` with the generated **Ngrok URL**.  
  
 ## 📹 Demo  
-[[Link to Presentation Video](https://github.com/DeepikaChinnasamy/livekit_agent_assignment/blob/main/video.mp4)](#)  
+[[Link to walkthrough code Video](https://github.com/DeepikaChinnasamy/livekit_agent_assignment/blob/main/video.mp4)](#)
+[[Link to UI Response Presentation Video](https://github.com/DeepikaChinnasamy/livekit_agent_assignment/blob/main/video.mp4)](#)
  
 ## 📜 Documentation  
 For a detailed guide, check the [Documentation](https://github.com/DeepikaChinnasamy/livekit_agent_assignment/blob/main/Developer%20Home%20Assignment.docx) 
