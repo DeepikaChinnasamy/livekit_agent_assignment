@@ -26,8 +26,8 @@ For a full implementation of LiveKit's Voice Pipeline Agent, please refer to the
 ## 🧠 LLM Variants
 This project has been tested with two different LLMs:
 
-OpenAI-based Agents: Implemented in the "agents" folder.
-Groq-based Agents: Implemented in the "Agents with groq llm" folder.
+* OpenAI-based Agents: Implemented in the "agents" folder.
+* Groq-based Agents: Implemented in the "Agents with groq llm" folder.
 Both implementations follow the same LiveKit Voice Pipeline workflow but utilize different models for response generation.
  
 ## 🏗️ Setup  
