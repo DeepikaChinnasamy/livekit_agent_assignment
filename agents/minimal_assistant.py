@@ -134,7 +134,6 @@ async def entrypoint(ctx: JobContext):
 
     await agent.say("Hey, how can I help you today?", allow_interruptions=True)
 
-
 if __name__ == "__main__":
     cli.run_app(
         WorkerOptions(
